@@ -8,3 +8,4 @@ Trillo. You can see the project live [HERE](https://marlonry.github.io/Trillo/)!
 - Responsive Media Queries
 - Layout
 - Grids
+- SVGs
